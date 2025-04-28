@@ -1,0 +1,21 @@
+Problem statement -
+
+Destination Paradise
+
+Create a responsive Travelling web application with a Bootstrap-integrated navbar for navigation, search functionality, various form checks etc.
+Welcome, developers! Develop a fully responsive and interactive website for "Destination Paradise", a fictional travel agency, using HTML, CSS (Bootstrap), 
+and JavaScript. The website will showcase travel packages and include interactive elements like a carousel, a booking form, and a dynamic package display based on user input.
+
+General requirements :
+Your solution should retain the structural integrity of the starter kit while introducing functional enhancements and visual refinements to elevate the user experience. 
+The home page or the landing page for Html, CSS and Javascript projects should be 'index.html' .
+
+
+Task for students 
+
+
+
+UI reference & demo
+
+Use the given starter kit to design the Restaurant Web interface, aiming to mirror the UI created using starter kit while also adding your innovative touches.
+Watch the demo video which will help in designing the project in recommended way -
